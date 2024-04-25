@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Meetings>
+    <Meeting>
+        <Date>2024-04-17</Date>
+        <Time>10:00</Time>
+        <With>John Doe</With>
+        <Place>Conference Room A</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-04-17</Date>
+        <Time>14:00</Time>
+        <With>Jane Smith</With>
+        <Place>Meeting Room B</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-04-18</Date>
+        <Time>14:00</Time>
+        <With>Jane Smith</With>
+        <Place>Meeting Room B</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-04-19</Date>
+        <Time>14:00</Time>
+        <With>Jane Smith</With>
+        <Place>Meeting Room G</Place>
+    </Meeting>
+    <Meeting>
+        <Date>2024-04-20</Date>
+        <Time>14:00</Time>
+        <With>Jane Smith</With>
+        <Place>Meeting Room C</Place>
+    </Meeting>
+</Meetings>
+
